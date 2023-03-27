@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="318cf35b-e21e-4fa0-980d-26ace3ac9090">
+  <producedTypes>
+    <objectType typeId="c68586ae-aadb-4e0a-8d47-407163280613" valueTypeId="307cfd92-2938-41a7-bfd5-6ba6a98dc00f"/>
+  </producedTypes>
+  <name>ОчетПоследняяПродажаОзон</name>
+  <synonym>
+    <key>ru</key>
+    <value>Очет последняя продажа озон</value>
+  </synonym>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="83d738d0-f1c1-40c2-b8c6-2235816c278b"/>
+  <templates uuid="48d2b6a3-7d40-44ca-8526-53a9bc8a3078">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:ExternalReport>
